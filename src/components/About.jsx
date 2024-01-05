@@ -49,7 +49,7 @@ const About = () => {
                 </p>
               </div>
             </div>
-            <div className="text-gray-500 pt-8">
+            <div className="text-gray-500 pt-5">
               <p>
                 Hola, soy Miguel Márquez, un apasionado{" "}
                 <span className="text-yellow-600/90">programador web</span>{" "}
@@ -68,7 +68,7 @@ const About = () => {
                 usabilidad, mis proyectos son un equilibrio entre funcionalidad
                 y estética.
               </p>
-              <a href="https://wa.link/7kgcgx" target="_blank" className="mt-5 text-white py-2 px-5 bg-blue-600 border-blue-600 border rounded hover:bg-blue-700 hover:border-blue-700 transition-all duration-300 w-full lg:w-auto">
+              <a href="https://wa.link/7kgcgx" target="_blank" className="mt-3 text-white py-2 px-5 bg-blue-600 border-blue-600 border rounded hover:bg-blue-700 hover:border-blue-700 transition-all duration-300 w-full lg:w-auto block lg:inline-block text-center">
                 Hablemos
               </a>
             </div>
