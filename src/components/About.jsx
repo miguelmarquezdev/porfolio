@@ -28,7 +28,7 @@ const About = () => {
                   <PiSuitcaseSimpleLight className="text-2xl text-blue-600" />
                 </div>
                 <h3 className="font-semibold text-lg">Experiencia</h3>
-                <p className="text-neutral-500 text-sm">+8 años de Trabajo</p>
+                <p className="text-neutral-500 text-sm">+5 años de Trabajo</p>
               </div>
               <div className="bg-white/5 rounded-xl p-5 flex justify-center flex-col items-center gap-5 hover:scale-105 transition-all duration-500">
                 <div className=" rounded-full bg-white p-2">
@@ -36,7 +36,7 @@ const About = () => {
                 </div>
                 <h3 className="font-semibold text-lg">Clientes</h3>
                 <p className="text-neutral-500 text-sm">
-                  +50 clientes Satisfechos
+                  +20 clientes Satisfechos
                 </p>
               </div>
               <div className="bg-white/5 rounded-xl p-5 flex justify-center flex-col items-center gap-5 md:col-span-1 col-span-2 hover:scale-105 transition-all duration-500">
@@ -45,14 +45,14 @@ const About = () => {
                 </div>
                 <h3 className="font-semibold text-lg">Proyectos</h3>
                 <p className="text-neutral-500 text-sm">
-                  +100 Proyectos Publicados
+                  +50 Proyectos
                 </p>
               </div>
             </div>
             <div className="text-gray-500 pt-5">
               <p>
                 Hola, soy Miguel Márquez, un apasionado{" "}
-                <span className="text-yellow-600/90">programador web</span>{" "}
+                <span className="text-yellow-600/90">desarrollador web</span>{" "}
                 <span className="text-red-300">
                   con un fuerte enfoque en la creación de experiencias digitales
                 </span>{" "}

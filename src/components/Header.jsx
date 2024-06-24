@@ -20,7 +20,7 @@ export const Header = () => {
             <a href={cv} target="_blank" download className="py-2 px-5 border-white border rounded hover:border-blue-700 transition-all duration-300 hover:bg-blue-600">
               Descargar CV
             </a>
-            <a href="https://wa.link/7kgcgx" target="_blank" className="py-2 px-5 bg-blue-600 border-blue-600 border rounded hover:bg-blue-700 hover:border-blue-700 transition-all duration-300">
+            <a href="https://wa.link/he7prp" target="_blank" className="py-2 px-5 bg-blue-600 border-blue-600 border rounded hover:bg-blue-700 hover:border-blue-700 transition-all duration-300">
               Hablemos
             </a>
           </div>
