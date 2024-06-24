@@ -30,7 +30,7 @@ const SeoSem = [
   },
   {
     id: 5,
-    nombre: "Campañas de pago por clic (PPC) en Google Ads y Bing Ads.",
+    nombre: "Campañas de pago por clic (CPC) en Google Ads, Bing Ads y redes sociales (Meta Ads).",
   },
   {
     id: 6,
