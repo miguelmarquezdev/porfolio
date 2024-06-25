@@ -3,7 +3,7 @@ import imgMiguel from "../assets/img/img-miguel-blue.png";
 import { FaGithub } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa6";
 import { FaFacebook } from "react-icons/fa";
-import cv from "../assets/cv.pdf"
+import cv from "../assets/cv-miguel-marquez.pdf"
 
 export const Header = () => {
   return (
